@@ -1,3 +1,3 @@
 #!/bin/bash
-total=$((num1+num2))
+#total=$((num1+num2))
 echo $total
